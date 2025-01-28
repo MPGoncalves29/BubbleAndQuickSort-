@@ -4,7 +4,7 @@ Essa é uma atividade de Estrutura de Dados 1 a qual o objetivo era medir o temp
 # Relatório
 
 ### Comparação dos métodos
-O quick Sort demora algumas centenas de milésimos de segundos e o bubble sort demora aproxidamente 53 minutos para ordenar, o que deixa explícito a vantagem do quick sort em relação ao bubble, já que o tempo de execução dele é O(n.log(n)) e o do bubble é O(n²), fazendo com que quanto mais valores houver para ordenar, maior vai ser a diferença entre a eficiência do quick e a do bubble.
+O quick Sort demora aproxiadamente 300 milésimos de segundos e o bubble sort 53 minutos para ordenar, o que deixa explícito a vantagem do quick sort em relação ao bubble, já que o tempo de execução dele é O(n.log(n)) e o do bubble é O(n²), fazendo com que quanto mais valores houver para ordenar, maior vai ser a diferença entre a eficiência do quick e a do bubble.
 
 ### Escolha dos Pivôs
 
